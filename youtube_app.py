@@ -7,12 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/122fXdJnytL35gEN70AUjBNstj0RoVOkn
 """
 
-!pip install streamlit
-!pip install emoji
-!pip install demoji
-!pip install transformers
-!pip install google-api-python-client
-
 import streamlit as st
 import re
 import pandas as pd
