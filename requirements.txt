@@ -1,0 +1,9 @@
+streamlit==1.23.1
+pandas==1.5.3
+emoji==2.5.1
+demoji==1.1.0
+googleapiclient
+matplotlib==3.7.1
+nltk==3.8.1
+transformers==4.30.2
+wordcloud==1.8.2.2
